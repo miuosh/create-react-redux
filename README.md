@@ -5,10 +5,10 @@ Navigate to project root folder:
 > node create-react-redux
 
 Root folder:
-\dist
-\src
-\webpack.config.js
-\package.json
-\.babelrc
-\.eslintrc
+> \dist
+> \src
+> \webpack.config.js
+> \package.json
+> \.babelrc
+> \.eslintrc
 
