@@ -1,5 +1,5 @@
 # create-react-redux
-create react + redux project structure
+create react + redux project structure using nodeJS script
 
 Copy script to project root folder and run:
 `node create-react-redux`
